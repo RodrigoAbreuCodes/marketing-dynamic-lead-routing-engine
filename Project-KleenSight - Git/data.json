@@ -1,0 +1,434 @@
+{
+  "salespeople": [
+    [
+      1,
+      {
+        "id": 1,
+        "name": "Edgar Tinoco",
+        "role": "PCE",
+        "team": "vila-do-conde",
+        "bestSector": "43.32",
+        "secondBestSector": "25.12",
+        "thirdBestSector": "73.11",
+        "createdAt": "1970-01-01T00:00:00.000Z",
+        "inboundBestSector": "43.32",
+        "inboundSecondBestSector": "47.59",
+        "inboundThirdBestSector": "25.99",
+        "outboundBestSector": "33.12",
+        "outboundSecondBestSector": "45.20",
+        "outboundThirdBestSector": "45.20"
+      }
+    ],
+    [
+      2,
+      {
+        "id": 2,
+        "name": "Jorge Duarte",
+        "role": "PCE",
+        "team": "palmela",
+        "bestSector": "30.11",
+        "secondBestSector": "43.21",
+        "thirdBestSector": "25.62",
+        "createdAt": "1970-01-01T00:00:00.000Z",
+        "inboundBestSector": "41.20",
+        "inboundSecondBestSector": "45.11",
+        "inboundThirdBestSector": "18.12",
+        "outboundBestSector": "56.10",
+        "outboundSecondBestSector": "56.10",
+        "outboundThirdBestSector": "56.10"
+      }
+    ],
+    [
+      3,
+      {
+        "id": 3,
+        "name": "João Ferreira",
+        "role": "PCE",
+        "team": "palmela",
+        "bestSector": "84.11",
+        "secondBestSector": "55.10",
+        "thirdBestSector": "25.12",
+        "createdAt": "1970-01-01T00:00:00.000Z",
+        "inboundBestSector": "84.11",
+        "inboundSecondBestSector": "41.20",
+        "inboundThirdBestSector": "46.14",
+        "outboundBestSector": "29.20",
+        "outboundSecondBestSector": "29.32",
+        "outboundThirdBestSector": "29.32"
+      }
+    ],
+    [
+      4,
+      {
+        "id": 4,
+        "name": "Pedro Luís",
+        "role": "PCE",
+        "team": "palmela",
+        "bestSector": "23.42",
+        "secondBestSector": "21.10",
+        "thirdBestSector": "23.41",
+        "createdAt": "1970-01-01T00:00:00.000Z",
+        "inboundBestSector": "23.42",
+        "inboundSecondBestSector": "32.50",
+        "inboundThirdBestSector": "46.43",
+        "outboundBestSector": "30.30",
+        "outboundSecondBestSector": "33.12",
+        "outboundThirdBestSector": "33.12"
+      }
+    ],
+    [
+      6,
+      {
+        "id": 6,
+        "name": "Ricardo Pinela",
+        "role": "PCE",
+        "team": "palmela",
+        "bestSector": "33.20",
+        "secondBestSector": "84.25",
+        "thirdBestSector": "29.20",
+        "createdAt": "1970-01-01T00:00:00.000Z",
+        "inboundBestSector": "21.20",
+        "inboundSecondBestSector": "23.42",
+        "inboundThirdBestSector": "33.16",
+        "outboundBestSector": "45.20",
+        "outboundSecondBestSector": "45.20",
+        "outboundThirdBestSector": "45.20"
+      }
+    ],
+    [
+      7,
+      {
+        "id": 7,
+        "name": "Tiago Samora",
+        "role": "PCE",
+        "team": "palmela",
+        "bestSector": "49.41",
+        "secondBestSector": "25.12",
+        "thirdBestSector": "52.24",
+        "createdAt": "1970-01-01T00:00:00.000Z",
+        "inboundBestSector": "28.29",
+        "inboundSecondBestSector": "41.20",
+        "inboundThirdBestSector": "52.24",
+        "outboundBestSector": "25.73",
+        "outboundSecondBestSector": "25.73",
+        "outboundThirdBestSector": "25.73"
+      }
+    ],
+    [
+      8,
+      {
+        "id": 8,
+        "name": "Valdo Amado",
+        "role": "PCE",
+        "team": "palmela",
+        "bestSector": "25.11",
+        "secondBestSector": "32.50",
+        "thirdBestSector": "28.93",
+        "createdAt": "1970-01-01T00:00:00.000Z",
+        "inboundBestSector": "77.32",
+        "inboundSecondBestSector": "46.64",
+        "inboundThirdBestSector": "46.69",
+        "outboundBestSector": "45.11",
+        "outboundSecondBestSector": "46.69",
+        "outboundThirdBestSector": "33.12"
+      }
+    ],
+    [
+      9,
+      {
+        "id": 9,
+        "name": "Filipe Rocha",
+        "role": "PCE",
+        "team": "vila-do-conde",
+        "bestSector": "42.11",
+        "secondBestSector": "38.31",
+        "thirdBestSector": "15.20",
+        "createdAt": "1970-01-01T00:00:00.000Z",
+        "inboundBestSector": "25.73",
+        "inboundSecondBestSector": "25.99",
+        "inboundThirdBestSector": "45.32",
+        "outboundBestSector": "15.20",
+        "outboundSecondBestSector": "25.73",
+        "outboundThirdBestSector": "33.12"
+      }
+    ],
+    [
+      11,
+      {
+        "name": "Francisco Simões",
+        "role": "PCE",
+        "team": "vila-do-conde",
+        "bestSector": "25.62",
+        "secondBestSector": "15.20",
+        "thirdBestSector": "68.10",
+        "id": 11,
+        "createdAt": "2025-07-11T13:30:44.868Z",
+        "inboundBestSector": "13.30",
+        "inboundSecondBestSector": "45.32",
+        "inboundThirdBestSector": "16.23",
+        "outboundBestSector": "49.41",
+        "outboundSecondBestSector": "25.50",
+        "outboundThirdBestSector": "28.30"
+      }
+    ],
+    [
+      12,
+      {
+        "name": "João Garcia",
+        "role": "PCE",
+        "team": "vila-do-conde",
+        "bestSector": "25.72",
+        "secondBestSector": "49.39",
+        "thirdBestSector": "29.31",
+        "id": 12,
+        "createdAt": "2025-07-11T13:30:46.364Z",
+        "inboundBestSector": "25.72",
+        "inboundSecondBestSector": "49.39",
+        "inboundThirdBestSector": "29.31",
+        "outboundBestSector": "25.72",
+        "outboundSecondBestSector": "49.39",
+        "outboundThirdBestSector": "29.31"
+      }
+    ],
+    [
+      13,
+      {
+        "name": "Mário Pinto",
+        "role": "PCE",
+        "team": "vila-do-conde",
+        "bestSector": "71.12",
+        "secondBestSector": "25.11",
+        "thirdBestSector": "23.14",
+        "id": 13,
+        "createdAt": "2025-07-11T13:30:47.578Z",
+        "inboundBestSector": "27.40",
+        "inboundSecondBestSector": "22.29",
+        "inboundThirdBestSector": "45.11",
+        "outboundBestSector": "26.52",
+        "outboundSecondBestSector": "26.52",
+        "outboundThirdBestSector": "26.52"
+      }
+    ],
+    [
+      14,
+      {
+        "name": "Pedro Araújo",
+        "role": "PCE",
+        "team": "vila-do-conde",
+        "bestSector": "32.50",
+        "secondBestSector": "25.11",
+        "thirdBestSector": "49.41",
+        "id": 14,
+        "createdAt": "2025-07-11T13:30:49.562Z",
+        "inboundBestSector": "28.99",
+        "inboundSecondBestSector": "27.90",
+        "inboundThirdBestSector": "45.40",
+        "outboundBestSector": "31.02",
+        "outboundSecondBestSector": "38.31",
+        "outboundThirdBestSector": "25.99"
+      }
+    ],
+    [
+      15,
+      {
+        "name": "Bruno Pedrosa",
+        "role": "PCE",
+        "team": "vila-do-conde",
+        "bestSector": "24.51",
+        "secondBestSector": "45.32",
+        "thirdBestSector": "33.14",
+        "id": 15,
+        "createdAt": "2025-07-11T13:30:50.694Z",
+        "inboundBestSector": "24.51",
+        "inboundSecondBestSector": "45.32",
+        "inboundThirdBestSector": "33.14",
+        "outboundBestSector": "24.51",
+        "outboundSecondBestSector": "45.32",
+        "outboundThirdBestSector": "33.14"
+      }
+    ],
+    [
+      16,
+      {
+        "name": "Wilson Pereira",
+        "role": "PCE",
+        "team": "vila-do-conde",
+        "bestSector": "25.11",
+        "secondBestSector": "32.50",
+        "thirdBestSector": "28.93",
+        "id": 16,
+        "createdAt": "2025-07-11T13:30:52.050Z",
+        "inboundBestSector": "25.11",
+        "inboundSecondBestSector": "15.20",
+        "inboundThirdBestSector": "45.11",
+        "outboundBestSector": "25.61",
+        "outboundSecondBestSector": "46.69",
+        "outboundThirdBestSector": "46.69"
+      }
+    ]
+  ],
+  "leads": [],
+  "assignmentHistory": [],
+  "assignmentParameters": {
+    "id": 1,
+    "sectorBuckets": [
+      {
+        "id": "bucket1",
+        "name": "Bucket 1",
+        "minLeads": 1,
+        "maxLeads": 3,
+        "weight": 70
+      },
+      {
+        "id": "bucket2",
+        "name": "Bucket 2",
+        "minLeads": 4,
+        "maxLeads": 5,
+        "weight": 50
+      },
+      {
+        "id": "bucket3",
+        "name": "Bucket 3",
+        "minLeads": 6,
+        "maxLeads": 7,
+        "weight": 30
+      },
+      {
+        "id": "bucket4",
+        "name": "Bucket 4",
+        "minLeads": 8,
+        "maxLeads": 9,
+        "weight": 20
+      },
+      {
+        "id": "bucket5",
+        "name": "Bucket 5",
+        "minLeads": 10,
+        "maxLeads": null,
+        "weight": 0
+      }
+    ],
+    "totalLeadPools": [
+      {
+        "id": "pool1",
+        "name": "Pool 1",
+        "minLeads": 0,
+        "maxLeads": 4,
+        "weight": 80
+      },
+      {
+        "id": "pool2",
+        "name": "Pool 2",
+        "minLeads": 5,
+        "maxLeads": 7,
+        "weight": 60
+      },
+      {
+        "id": "pool3",
+        "name": "Pool 3",
+        "minLeads": 8,
+        "maxLeads": 10,
+        "weight": 40
+      },
+      {
+        "id": "pool4",
+        "name": "Pool 4",
+        "minLeads": 11,
+        "maxLeads": 13,
+        "weight": 20
+      },
+      {
+        "id": "pool5",
+        "name": "Pool 5",
+        "minLeads": 14,
+        "maxLeads": null,
+        "weight": 0
+      }
+    ],
+    "assignmentWeights": [
+      {
+        "bucketId": "bucket1",
+        "poolId": "pool1",
+        "weight": 90
+      },
+      {
+        "bucketId": "bucket1",
+        "poolId": "pool2",
+        "weight": 81
+      },
+      {
+        "bucketId": "bucket1",
+        "poolId": "pool3",
+        "weight": 68
+      },
+      {
+        "bucketId": "bucket1",
+        "poolId": "pool4",
+        "weight": 50
+      },
+      {
+        "bucketId": "bucket1",
+        "poolId": "pool5",
+        "weight": 27
+      },
+      {
+        "bucketId": "bucket2",
+        "poolId": "pool1",
+        "weight": 70
+      },
+      {
+        "bucketId": "bucket2",
+        "poolId": "pool2",
+        "weight": 63
+      },
+      {
+        "bucketId": "bucket2",
+        "poolId": "pool3",
+        "weight": 52
+      },
+      {
+        "bucketId": "bucket2",
+        "poolId": "pool4",
+        "weight": 38.5
+      },
+      {
+        "bucketId": "bucket2",
+        "poolId": "pool5",
+        "weight": 21
+      },
+      {
+        "bucketId": "bucket3",
+        "poolId": "pool1",
+        "weight": 40
+      },
+      {
+        "bucketId": "bucket3",
+        "poolId": "pool2",
+        "weight": 36
+      },
+      {
+        "bucketId": "bucket3",
+        "poolId": "pool3",
+        "weight": 30
+      },
+      {
+        "bucketId": "bucket3",
+        "poolId": "pool4",
+        "weight": 22
+      },
+      {
+        "bucketId": "bucket3",
+        "poolId": "pool5",
+        "weight": 12
+      }
+    ],
+    "updatedAt": "2025-07-11T15:34:03.735Z"
+  },
+  "customNaceCodes": [],
+  "hiddenNaceCodes": [],
+  "overriddenDescriptions": [],
+  "currentSalespersonId": 17,
+  "currentLeadId": 46,
+  "currentParameterId": 2,
+  "currentHistoryId": 46
+}
